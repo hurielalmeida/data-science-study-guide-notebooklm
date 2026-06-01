@@ -1,53 +1,56 @@
-# Guia de Estudos de Ciência de Dados com NotebookLM
+# 📚 Guia de Estudos de Ciência de Dados com NotebookLM
 
-## Sobre o Projeto
+## 📖 Sobre o Projeto
 
 Este projeto foi desenvolvido como parte de um desafio da DIO utilizando o Google NotebookLM para organizar, sintetizar e estruturar conhecimentos relacionados à Ciência de Dados.
 
 O objetivo foi transformar múltiplas fontes de estudo em materiais organizados e de fácil consulta para iniciantes na área de Data Science.
 
-## Temas Abordados
+---
 
-- Data Science
-- Machine Learning
-- CRISP-DM
-- Estatística Básica
-- SQL
-- Python para Dados
-- Power BI
-- Git e GitHub
-- Cloud Computing
-- Ética e LGPD
-- Engenharia Mecânica aplicada à Ciência de Dados
-- Indústria 4.0
+## 🧠 Materiais Produzidos
 
-## Materiais Gerados com NotebookLM
+* FAQ para iniciantes em Data Science
+* Roadmap de estudos de 6 meses
+* Glossário de termos fundamentais
+* Mapa Mental
+* Cartões de Estudo
+* Apresentação em PowerPoint
 
-### Mapa Mental
-Organização visual dos principais conceitos estudados.
+---
 
-### Cartões de Estudo
-Flashcards para revisão rápida dos conceitos fundamentais.
+## 🛠 Ferramentas Utilizadas
 
-### Apresentação
-Resumo estruturado dos principais tópicos abordados nas fontes analisadas.
+* Google NotebookLM
+* GitHub
+* Markdown
 
-### FAQ
-Perguntas e respostas para iniciantes em Ciência de Dados.
+---
 
-### Roadmap de Estudos
-Plano de aprendizagem para transição de carreira para Data Science.
+## 📚 Temas Abordados
 
-## Tecnologias Utilizadas
+* Data Science
+* Machine Learning
+* CRISP-DM
+* Estatística Básica
+* SQL
+* Python para Dados
+* Power BI
+* Git e GitHub
+* Cloud Computing
+* Ética e LGPD
+* Aplicações na Engenharia Mecânica e Indústria 4.0
 
-- Google NotebookLM
-- GitHub
-- Markdown
+---
 
-## Objetivo Profissional
+## 🎯 Objetivo de Aprendizagem
 
-Este projeto faz parte da minha jornada de transição e desenvolvimento profissional na área de Dados, unindo minha experiência em Engenharia Mecânica com conhecimentos em Data Science, Machine Learning e Automação Industrial.
+Consolidar conceitos fundamentais de Ciência de Dados e desenvolver habilidades de organização, documentação e compartilhamento de conhecimento utilizando ferramentas modernas de IA.
 
-## Autor
+---
+
+## 👨‍💻 Autor
 
 Huriel Almeida
+
+Projeto desenvolvido durante os estudos em Ciência de Dados e Inteligência Artificial.
